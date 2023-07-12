@@ -1,0 +1,1 @@
+# ts-property-path
